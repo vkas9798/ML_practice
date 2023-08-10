@@ -1,0 +1,7 @@
+/.ipynb_checkpoints
+/.vscode
+
+# Ignore directories
+notebook_env/
+testing/
+
